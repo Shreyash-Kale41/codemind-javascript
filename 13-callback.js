@@ -22,7 +22,6 @@ let elon = function(){
 jenny(elon);
 
 
-
 console.log(`====== setTimeout() ======`);
 let show = function(){
     console.log(`== Inside show FE ===`);

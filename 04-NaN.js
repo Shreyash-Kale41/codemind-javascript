@@ -1,5 +1,6 @@
 var result = 0/0;
 console.log(result); // NaN ---> Not a Number
+console.log(typeof(NaN)); // NaN ---> Not a Number
 console.log("==========");
 
 var n1;
